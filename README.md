@@ -12,15 +12,6 @@ Video_Game_Sales.csv: CSV file containing the raw data used for training and tes
 Installation
 To run the Jupyter Notebook locally and explore the project, you need to have Python and the required libraries installed. You can install the necessary dependencies using the following command:
 
-# How to Use
-Clone this repository to your local machine using Git: bash Copy code git clone https://github.com/ShitalPidurkar/videoGame_sales_prediction_Asterisc_Task2.git
-
-Navigate to the project directory and install the dependencies as mentioned in the Installation section.
-
-Open the Jupyter Notebook video_game_sales_prediction.ipynb using Jupyter Notebook or JupyterLab.
-
-Follow the step-by-step instructions in the Notebook to explore the data, preprocess it, train the regression models, and make predictions.
-
 # Model Evaluation
 We evaluated two regression models, Random Forest and Gradient Boosting, for video game sales prediction. Both models showed promising results, with relatively low mean squared error and root mean squared error values, indicating their effectiveness in making predictions. Additionally, the R-squared values demonstrated that a significant proportion of the variance in global sales can be explained by the models.
 
